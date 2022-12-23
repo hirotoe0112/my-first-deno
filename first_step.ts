@@ -1,1 +1,1 @@
-console.log("Welcome to deno!")
+console.log("Welcome to deno!");
